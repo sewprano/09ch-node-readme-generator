@@ -9,6 +9,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "8.2.4"
-  }
+    "inquirer": "^8.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sewprano/09ch-node-readme-generator.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/sewprano/09ch-node-readme-generator/issues"
+  },
+  "homepage": "https://github.com/sewprano/09ch-node-readme-generator#readme"
 }
