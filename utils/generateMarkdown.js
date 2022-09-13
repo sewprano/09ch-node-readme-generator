@@ -111,43 +111,43 @@ function renderLicenseSection(license, name) {
 // TODO: Create a function to generate markdown for README
 const generateMarkdown = (data) => {
   
-    return `# ${data.title} - [${renderLicenseBadge(data.license)}](${renderLicenseLink(data.license, data.name)})
-    
-    ## DESCRIPTION
+return `# ${data.title} - [${renderLicenseBadge(data.license)}](${renderLicenseLink(data.license, data.name)})
 
-    ${data.description}
+## DESCRIPTION
 
-    ## TABLE OF CONTENTS
+${data.description}
 
-    1. [Installation](#installation)
-    2. [Usage](#usage)
-    3. [Contributing](#contributing)
-    4. [Tests](#tests)
-    5. [Questions](#questions)
+## TABLE OF CONTENTS
 
-    ## INSTALLATION
+1. [Installation](#installation)
+2. [Usage](#usage)
+3. [Contributing](#contributing)
+4. [Tests](#tests)
+5. [Questions](#questions)
 
-    ${data.installation}
+## INSTALLATION
 
-    ## USAGE
+${data.installation}
 
-    ${data.usage}
+## USAGE
 
-    ## CONTRIBUTING
+${data.usage}
 
-    ${data.contributing}
+## CONTRIBUTING
 
-    ## TESTS
+${data.contributing}
 
-    ${data.tests}
+## TESTS
 
-    ## QUESTIONS
+${data.tests}
 
-    For questions: 
-    email: [${data.email}](mailto:${data.email})
-    Github profile: [${data.username}](https://github/com/${data.username})
-    
-    `;
+## QUESTIONS
+
+For questions: 
+email: [${data.email}](mailto:${data.email})
+Github profile: [${data.username}](https://github/com/${data.username})
+
+`;
 }
 
 module.exports = generateMarkdown;

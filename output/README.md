@@ -1,37 +1,36 @@
-# The Title - [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-    
-    ## DESCRIPTION
+# This is the Title - [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+## DESCRIPTION
 
-    ## TABLE OF CONTENTS
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 
-    1. [Installation](#installation)
-    2. [Usage](#usage)
-    3. [Contributing](#contributing)
-    4. [Tests](#tests)
-    5. [Questions](#questions)
+## TABLE OF CONTENTS
 
-    ## INSTALLATION
+1. [Installation](#installation)
+2. [Usage](#usage)
+3. [Contributing](#contributing)
+4. [Tests](#tests)
+5. [Questions](#questions)
 
-    undefined
+## INSTALLATION
 
-    ## USAGE
+undefined
 
-    usage: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+## USAGE
 
-    ## CONTRIBUTING
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 
-    contribute: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+## CONTRIBUTING
 
-    ## TESTS
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 
-    undefined
+## TESTS
 
-    ## QUESTIONS
+undefined
 
-    For questions: 
-    email: [sopranosamurai@yahoo.com](mailto:sopranosamurai@yahoo.com)
-    Github profile: [sewprano](https://github/com/sewprano)
-    
-    
+## QUESTIONS
+
+For questions: 
+email: [sopranosamurai@yahoo.com](mailto:sopranosamurai@yahoo.com)
+Github profile: [sewprano](https://github/com/sewprano)
+
