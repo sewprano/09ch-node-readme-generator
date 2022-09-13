@@ -112,7 +112,7 @@ function renderLicenseSection(license, name) {
 const generateMarkdown = (data) => {
   
     return `# ${data.title} - [${renderLicenseBadge(data.license)}](${renderLicenseLink(data.license, data.name)})
-
+    
     ## DESCRIPTION
 
     ${data.description}

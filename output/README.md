@@ -1,10 +1,10 @@
-# The title - [![License: Apache 2.0](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/Apache-2.0)
-
+# The Title - [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+    
     ## DESCRIPTION
 
-    description asdfjkl ; asdfgl asdfl; khasdfglkjasd;lf kjasdf 
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 
-    ## **TABLE OF CONTENTS**
+    ## TABLE OF CONTENTS
 
     1. [Installation](#installation)
     2. [Usage](#usage)
@@ -12,26 +12,26 @@
     4. [Tests](#tests)
     5. [Questions](#questions)
 
-    ## **INSTALLATION**
+    ## INSTALLATION
 
     undefined
 
-    ## **USAGE**
+    ## USAGE
 
-    usage asdhgkfl ;asdkl ;asdvfh asdhf 
+    usage: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 
-    ## **CONTRIBUTING**
+    ## CONTRIBUTING
 
-    contribute asdjfkl sdfkj asdfj asd;lf 
+    contribute: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 
-    ## **TESTS**
+    ## TESTS
 
     undefined
 
-    ## **QUESTIONS**
+    ## QUESTIONS
 
     For questions: 
-    email: <sopranosamurai@yahoo.com>
-    Github profile: <https://github/com/sewprano>
+    email: [sopranosamurai@yahoo.com](mailto:sopranosamurai@yahoo.com)
+    Github profile: [sewprano](https://github/com/sewprano)
     
     
