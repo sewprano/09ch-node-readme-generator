@@ -1,8 +1,8 @@
-# My Amazingly Awesome Project Title - [![License: Apache 2.0](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/Apache-2.0)
+# Challenge 11 Note Taker - [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## DESCRIPTION
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+This is a note taker app that uses express
 
 ## TABLE OF CONTENTS
 
@@ -18,11 +18,11 @@ undefined
 
 ## USAGE
 
-Here is the usage info
+There is none
 
 ## CONTRIBUTING
 
-Please contribute what you can
+none
 
 ## TESTS
 
@@ -31,6 +31,6 @@ undefined
 ## QUESTIONS
 
 For questions: 
-email: [sopranosamurai@yahoo.com](mailto:sopranosamurai@yahoo.com)
+email: [hi](mailto:hi)
 Github profile: [sewprano](https://github/com/sewprano)
 
